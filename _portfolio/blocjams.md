@@ -29,22 +29,20 @@ Throughout the checkpoints and assignments I learned how to write my own Javascr
 A real world approach was used to submit assignments and checkpoints using Git in the command line.  The text editing tool Brackets was also used to write the code.  Using this approach I was able to identify changes as they happened.  This was extremely helpful in identifying where specific pieces of code were contained within the finished product.
 
 {:.center}
-![Mountains]({{ site.baseurl }}img/mountains-snow-header-7050.jpg)
+![Brackets]({{ site.baseurl }}/img/bracketslivepreview.png)
 
-
-You should discuss your solutions and back your decisions up with conducted research. You can explain the solution to each problem separately. Provide reasoning that supports the fixes you proposed. You should also display screenshots or artifacts of your presented solutions. Include all assets created in the design or development process. Explain your work and the theory behind it.
-
-If you are working on an existing web site or application, you should show a comparison of the old and new. Discuss how your solution corrects a problem found in the former.
 
 ## Results
 
-The process presented new material which occasionally did not work as advertised.  With the help of my mentor I was able to identify issues within the code through dev tools.  
+The process presented new material which occasionally did not work as advertised.  With the help of my mentor I was able to identify issues within the code through dev tools.  This approach identified why specific issues were occuring and allowed me to see which lines of code the error was occuring in.
 
-Testing is a big part of the design and development process. Understanding whether or not your solutions worked is essential. Provide information about your testing process then share the results you discovered from your users.
+{:.center}
+![Brackets]({{ site.baseurl }}/img/devtools.png)
 
-For design projects, if you have testimonials or quotes from those you interviewed and tested with, you can share those within the case study. Stakeholder interviews can also help validate your solutions, if they pertain to the business side of design.
 
 ## Conclusion
+
+As a foundational course developing bloc-jams increased my understanding of a real world front end application.  I became frustrated at times and was concerned about the time it was taking me to get through the concepts.  Setting aside those fears and digging into the code helped immensly in the long run.  I consistently had to fight the urge to look at the solution to the checkpoint or assignment which will not be present in the real world. 
 
 After sharing your solutions, you should summarize your final thoughts on the project. Ask yourself the following:
 
