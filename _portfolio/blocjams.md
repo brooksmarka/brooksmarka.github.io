@@ -28,8 +28,8 @@ Throughout the checkpoints and assignments I learned how to write my own Javascr
 
 A real world approach was used to submit assignments and checkpoints using Git in the command line.  The text editing tool Brackets was also used to write the code.  Using this approach I was able to identify changes as they happened.  This was extremely helpful in identifying where specific pieces of code were contained within the finished product.
 
-
-
+{:.center}
+![Mountains]({{ site.baseurl }}img/mountains-snow-header-7050.jpg)
 
 
 You should discuss your solutions and back your decisions up with conducted research. You can explain the solution to each problem separately. Provide reasoning that supports the fixes you proposed. You should also display screenshots or artifacts of your presented solutions. Include all assets created in the design or development process. Explain your work and the theory behind it.
