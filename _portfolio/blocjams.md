@@ -2,8 +2,8 @@
 layout: post
 title: BlocJams 
 feature-img: "img/colorful piano header.jpg"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams is the best player around
+thumbnail-path: "img/BlocJamsIndexImage.png"
+short-description: BlocJams Music Player...Turn it Up!
 
 ---
 
@@ -11,47 +11,56 @@ short-description: BlocJams is the best player around
 ------
 
 ## Why BlocJams?
-BlocJams is a Spotify clone music player which is responsive and mobile friendly.  This project consisted of 21 checkpoints and assignments to teach the foundations of HTML, CSS, and Javascript through the Bloc.io curriculum.  The player is fully functional and when linked to a database would dynamically populate albums.
+[BlocJams](https://blocjamsbymark.netlify.com/) is a Spotify clone music player which is responsive and mobile friendly.  This project consisted of 22 checkpoints and assignments to teach the foundations of HTML, CSS, and Javascript through the Bloc.io curriculum.  The player is fully functional and when linked to a database would dynamically populate albums.
 
-## Problem
+## What are we solving here?
 
-While working through the Bloc curriculum the basics of HTML, CSS, and Javascript were shown through an online curriculum.  Unfortunately not very many real world examples presented themselves with this approach.  BlocJams was needed to tie in real world examples using a popular music player.
+While working through the Bloc curriculum the basics of HTML, CSS, and Javascript were shown through an online curriculum.  Unfortunately no real world examples presented themselves with this approach.  BlocJams was needed to tie in real world examples using a popular music player.
 
-The problem is what you were hired to solve. This usually lists the reasons why you were brought on board and the issues you were given to resolve. Once you establish the list of problems, you can further expand on each and how they relate to the project you're working on.
+From This:
+{:.center}
+![Brackets]({{ site.baseurl }}/img/CodeSchool.png)
 
-If you're working on an existing web site or application, you can display old screenshots or artifacts of the project prior to the work you completed.
+To This:
+{:.center}
+![Brackets]({{ site.baseurl }}/img/BlocJamsCodeExample.png)
 
 
-## Solution
+## How did we solve it?
 
-Throughout the checkpoints and assignments I learned how to write my own Javascript code to implement solutions.  Mainly around helper functions to assist with the pre-written code.  A mentor was also provided to guide and offer assistance throughout the process.  Git was also used to submit checkpoints and assignments which were then checked off by a mentor.  
+Throughout the checkpoints and assignments I learned how to write my own Javascript code to implement solutions.  Mainly around helper functions to assist with the pre-written code.  A mentor was also provided to guide and offer assistance throughout the process.  
 
-A real world approach was used to submit assignments and checkpoints using Git in the command line.  The text editing tool Brackets was also used to write the code.  Using this approach I was able to identify changes as they happened.  This was extremely helpful in identifying where specific pieces of code were contained within the finished product.
+A real world approach was used to submit assignments and checkpoints using Git in the command line.  Each checkpoint was written in its own branch and once completed was pushed to Github and eventually merged back with master.  Throughout the process my mentor was checking off assignments and checkpoints as well as offering feedback on the code that was written.
+
+The text editing tool Brackets was also used to write the code.  Using this approach I was able to identify changes as they happened.  This was extremely helpful in identifying where specific pieces of code were contained within the finished product.
 
 {:.center}
 ![Brackets]({{ site.baseurl }}/img/bracketslivepreview.png)
 
 
-## Results
+## What did I get out of it?
 
-The process presented new material which occasionally did not work as advertised.  With the help of my mentor I was able to identify issues within the code through dev tools.  This approach identified why specific issues were occuring and allowed me to see which lines of code the error was occuring in.
+The process presented new material which occasionally did not work as it should have.  With the help of my mentor I was able to identify issues within the code through dev tools.  This approach identified why specific issues were occuring and allowed me to see which lines of code had issues.
 
 {:.center}
-![Brackets]({{ site.baseurl }}/img/devtools.png)
+![Dev Tools Image]({{ site.baseurl }}/img/devtools.png)
+
+As a foundational course developing BlocJams increased my understanding of a real world front end application.  I became frustrated at times and was concerned about the time it was taking me to get through the concepts.  Setting aside those fears and digging into the code helped immensly in the long run.  I consistently had to fight the urge to look at the solution to the checkpoint or assignment which will not be present in the real world. 
+
+This project absolutely suprised me.  It suprised me at its complexity and the amount of work that goes into creating something as simple as an online music player.  
+
+I also felt that using the [Pomodoro time managment technique](http://cirillocompany.de/pages/pomodoro-technique) was extremely helpful.  I used this to keep track of my time and also eventually estimate how much time a given task was going to take.  The technique allowed me to focus for a greater amount of time as well as keeping myself from going down rabbit holes and wasting time.  If you have never used this technique I would absolutely reccomend it!  I used a simple browser timer but you could use anything that has a timing function to keep you focused.
+
+{:.center}
+![25 Minute Timer]({{ site.baseurl }}/img/pomodoro.png)
 
 
-## Conclusion
+While this project mainly was foundational in nature and involved following along with previously written code it taught me a lot about the world of coding.  
+* Don't cut corners
+* Organization of websites 
+* Don't repeat yourself and refactor code when you can
+* Someone has probably had the same question as you and google is your best friend
+* Good coffee, food, or a walk does wonders for refocusing on a problem and getting to the solution
+* Time managment is extremely important
 
-As a foundational course developing bloc-jams increased my understanding of a real world front end application.  I became frustrated at times and was concerned about the time it was taking me to get through the concepts.  Setting aside those fears and digging into the code helped immensly in the long run.  I consistently had to fight the urge to look at the solution to the checkpoint or assignment which will not be present in the real world. 
-
-After sharing your solutions, you should summarize your final thoughts on the project. Ask yourself the following:
-
-+ What worked?
-+ What didn't?
-+ What were your doubts going into the project?
-+ What surprised you the most?
-+ What would you have done differently?
-+ What did you learn while doing this project?
-+ How will you use that information in the future?
-
-This list of questions can help you analyze the project's success, the process you went through to complete it, and what changes you may make to your process for future projects.
+This exercise was a great foundational course and I'm excited to build on this foundation.  Angular here I come! 
