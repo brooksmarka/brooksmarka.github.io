@@ -2,11 +2,16 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/campfireheader.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Thanks for checking out my portfolio page.  I'm a software developer from Denver, Colorado.  I enjoy learning new software languages, solving problems, running/mountain biking, and enjoying the beauty of Colorado. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+### Currently I'm working on:
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+* Front End Web Development
+* Qualifying for the Boston Marathon
+* Building relationships in the Denver tech community
+
+If you want to learn more about my journey into development check out my blog posts.
+
