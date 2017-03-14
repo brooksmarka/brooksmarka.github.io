@@ -13,5 +13,5 @@ Thanks for checking out my portfolio page.  I'm a software developer from Denver
 * Qualifying for the Boston Marathon
 * Building relationships in the Denver tech community
 
-If you want to learn more about my journey into development check out my blog posts.
+If you want to learn more about my journey into development check out my [blog posts](http://www.mbrooks.us/).
 
