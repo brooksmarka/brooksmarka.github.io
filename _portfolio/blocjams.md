@@ -3,7 +3,7 @@ layout: post
 title: BlocJams
 feature-img: "img/colorful piano header.jpg"
 thumbnail-path: "img/BlocJamsIndexImage.png"
-short-description: BlocJams Music Player...Turn it Up!
+short-description: BlocJams Music Player
 
 ---
 
