@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bloc Chat
+title: YouTube React
 feature-img: "img/campfireheader.jpg"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
+thumbnail-path: "img/youtubereact.png"
 short-description: Coming Soon!
 
 ---

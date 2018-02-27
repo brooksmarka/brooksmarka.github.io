@@ -14,8 +14,7 @@ theme_settings:
   header_text: >
      <h1>Sales Minded Front End Engineer</h1>
   header_text_feature_image: "img/campfireheader.jpg"
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+  footer_text: 
 
   # Icons
   rss: false
