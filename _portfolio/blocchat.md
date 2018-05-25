@@ -1,15 +1,15 @@
 ---
 layout: post
 title: ReactJams
-feature-img: "img/Snowmass1 .jpg"
-thumbnail-path: "img/reactjams-landing.png"
+feature-img: "img/Snowmass1.jpg"
+thumbnail-path: "img/reactjamslanding.png"
 short-description: React Music Player
 ---
 
 # ReactJams Project
 
 {:center}
-![Logo]({{ site.baseurl }}/img/ReactJams-landing.png)
+![Logo]({{ site.baseurl }}/img/ReactJamslanding.png)
 
 ---
 
