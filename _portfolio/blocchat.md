@@ -9,7 +9,7 @@ short-description: React Music Player
 # ReactJams Project
 
 {:center}
-![Logo]({{ site.baseurl }}/img/ReactJamslanding.png)
+![Logo]({{ site.baseurl }}/img/reactjamslanding.png)
 
 ---
 
