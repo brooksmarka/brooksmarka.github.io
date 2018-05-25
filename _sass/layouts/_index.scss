@@ -3,7 +3,7 @@
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
-  background-color:$header-desc-background-color;
+  background-color: $header-desc-background-color;
   background-size: cover;
   font-size: 1.2em;
   text-align: center;
@@ -15,7 +15,7 @@
 // Post listing
 .posts {
   h2 {
-    padding:5% 20% 0%;
+    padding: 5% 20% 0%;
     text-align: center;
   }
   .post-teaser {
@@ -43,9 +43,9 @@
   background-size: $feature-image-size;
   border-bottom: 1px solid $border-color;
   li {
-    width: 32%;
-    margin-right:0.5%;
-    margin-left:0.5%;
+    width: 31%;
+    margin-right: 0.5%;
+    margin-left: 0.5%;
     margin-bottom: 0;
     display: inline-block;
     p a:hover {

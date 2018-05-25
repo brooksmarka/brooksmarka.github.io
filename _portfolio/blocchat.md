@@ -2,8 +2,8 @@
 layout: post
 title: ReactJams
 feature-img: "img/Snowmass1 .jpg"
-thumbnail-path: "img/ReactJams-landing.png"
-short-description: Under Construction
+thumbnail-path: "img/reactjams-landing.png"
+short-description: React Music Player
 ---
 
 # ReactJams Project
