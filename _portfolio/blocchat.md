@@ -6,19 +6,14 @@ thumbnail-path: "img/ReactJams-landing.png"
 short-description: Under Construction
 ---
 
-Under Construction
+# ReactJams Project
 
-Here is a taste of whats to come!
-{:.center}
-![Brackets]({{ site.baseurl }}/img/ReactJams-landing.png)
-
----
-
-# BlocJams Project
+{:center}
+![Logo]({{ site.baseurl }}/img/ReactJams-landing.png)
 
 ---
 
-## Why BlocJams?
+## Why ReactJams?
 
 [ReactJams](https://github.com/brooksmarka/reactjams) is a Spotify clone music player which is responsive and mobile friendly. This project consisted of 10 checkpoints and assignments to teach the foundations of React and Javascript through the Bloc.io curriculum. The player is fully functional and when linked to a database would dynamically populate albums.
 
@@ -35,6 +30,3 @@ While this project still followed the Bloc curriculum I was mainly on my own for
 I have really begun to like React. Based upon my past experiences with vanilla javascript and the Angular framework I found this project to be much easier to grasp due to the way data flows within the React application. The ability to change state easily and keep track of that state is what makes this process fun.
 
 I also decided to do mostly inline styling for the design of the site. I found colors what worked well together and found some background images that worked well. I even created my own logo for ReactJams!
-
-{:center}
-![Logo]({{ site.baseurl }}/img/ReactJams-landing.png)
