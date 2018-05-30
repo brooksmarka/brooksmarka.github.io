@@ -6,9 +6,11 @@ thumbnail-path: "img/BlocJamsIndexImage.png"
 short-description: BlocJams in Angular
 ---
 
-## #BlocJams Angular Project
+# BlocJams Angular Project
 
-## BlocJams Angular
+---
+
+## Why BlocJams Angular?
 
 To add upon my knowledge of Javascript I felt like it was time to learn a framework. Angular was chosen in the curriculum because
 
