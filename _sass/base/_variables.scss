@@ -1,6 +1,6 @@
 // Typography
-$font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-family-main: "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-headings: "Source Sans Pro", Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
 
 // Padding
@@ -9,22 +9,22 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #fff;
-$background-color: #fff;
-$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+$brand-color: #d3e8f0;
+$background-color: #d3e8f0;
+$border-color: #d3e8f0; // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #383838;
-$link-color: #1ABC9C;
-$selection-color: #D4D4D4; // visible when highlighting text
+$text-color: #092631;
+$link-color: #5fabc8;
+$selection-color: #d4d4d4; // visible when highlighting text
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #092631;
 
 // Feature image for articles
-$feature-image-text-color: #fff;
+$feature-image-text-color: #092631;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: #F98752;
-$header-desc-text-color: #FFF;
+$header-desc-background-color: #5fabc8;
+$header-desc-text-color: #1a3e4c;

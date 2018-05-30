@@ -12,9 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Sales Minded Front End Engineer</h1>
-  header_text_feature_image: "img/Snowmass1.jpg"
-  footer_text:
+     Sales Minded Front End Engineer
+  header_text_feature_image: "img/blueheader.png"
+  footer_text: 
 
   # Icons
   rss: false
