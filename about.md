@@ -9,9 +9,11 @@ Thanks for checking out my portfolio page. I'm a software developer from Denver,
 
 ### Currently I'm working on:
 
-* Front End Web Development
-* Training for the Boston Marathon
+* A React App which lists campsites around the United States
+* A spotify music clone using React
+* Increasing my knowledge of Javascript and React
+* Preparing to summit Mt. Rainier this summer
 * Building relationships in the Denver tech community
-* Starting a Squarespace design business as a side hustle
+* Running a Squarespace design business as a side hustle
 
-If you want to learn more about my journey into development check out my [blog posts](http://www.mbrooks.us/).
+If you want to learn more about my journey check out my [blog posts](http://www.mbrooks.us/).

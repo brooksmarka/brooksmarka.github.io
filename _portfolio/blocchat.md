@@ -2,7 +2,7 @@
 layout: post
 title: ReactJams
 feature-img: "img/blueheader.png"
-thumbnail-path: "img/reactjamslanding.png"
+thumbnail-path: "img/reactjamslandingthumb.png"
 short-description: React Music Player
 ---
 

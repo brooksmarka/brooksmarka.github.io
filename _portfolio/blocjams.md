@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 feature-img: "img/blueheader.png"
-thumbnail-path: "img/BlocJamsIndexImage.png"
+thumbnail-path: "img/bracketslivepreviewthumb.png"
 short-description: BlocJams Music Player
 ---
 
