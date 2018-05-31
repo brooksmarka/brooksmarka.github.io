@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams - Angular
 feature-img: "img/blueheader.png"
-thumbnail-path: "img/BlocJamsIndexImage.png"
+thumbnail-path: "img/BlocJamsIndexImagecrop.png"
 short-description: BlocJams in Angular
 ---
 
